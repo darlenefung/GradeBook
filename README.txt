@@ -1,0 +1,1 @@
+Write a program that works on a 2D list of grades. Each "row" in the table represents the grades that students in a class received on assignments. Your program should calculate the average grade for each student, and a class average of all grades.
